@@ -3,7 +3,7 @@
 
 ## Overview
 
-This is a Paytm Clone, a simple web application built with HTML, CSS, and JavaScript to replicate some features of the Paytm platform. It includes a responsive design, a navigation bar, and sections for recharging, bill payments, and booking various services.
+This is a Paytm Clone, a simple web application built with HTML, CSS, and Tailwind (CSS Framework) to replicate some features of the Paytm platform. It includes a responsive design, a navigation bar, and sections for recharging, bill payments, and booking various services.
 
 ## Table of Contents
 
