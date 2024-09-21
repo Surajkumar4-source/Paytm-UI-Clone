@@ -31,6 +31,30 @@ Explore the different sections of the Paytm Clone, such as recharging your mobil
 - `style.css`: The stylesheet file for styling the HTML elements.
 - `Assets/`: The folder containing images and icons used in the Paytm Clone.
 
+
+
+### Some of screen-shots of my paytm-clone website.
+
+![1](./ss/1.png)
+![2](./ss/2.png)
+![3](./ss/3.png)
+![4](./ss/4.png)
+![5](./ss/5.png)
+![6](./ss/6.png)
+![7](./ss/7.png)
+![8](./ss/8.png)
+![9](./ss/9.png)
+![10](./ss/10.png)
+![11](./ss/11.png)
+![12](./ss/12.png)
+![13](./ss/13.png)
+![14](./ss/14.png)
+
+
+
+
+
+
 ## Contributing
 
 Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and contributions are highly appreciated.
